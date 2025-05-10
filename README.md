@@ -1,7 +1,6 @@
 # ✨ About Me:
 🙋‍♀️ Hi, I’m @SaiSiriChandana<br>💡 I’m interested in crafting innovative solutions through software development and exploring the endless potential of machine learning.<br>📚 Currently learning data structures and algorithms, along with web development — every day brings a new challenge and a new concept!<br>🤝 Open to collaborate on creative and tech-driven projects — whether it’s building web apps or designing data-powered tools.<br>📬 Let’s connect! Whether it’s a bug, a feature idea, or a cool project, I’d love to chat.<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurella-sai-siri-chandana) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24223319) 
 
