@@ -6,7 +6,7 @@
 ---
 ## 🧠 Who Am I?
 
-Driven by curiosity and fueled by caffeine, I’m a final-year IT undergrad passionate about crafting smart solutions through code. I enjoy tackling challenges in data structures & algorithms, building intuitive web experiences, and learning something new every day.
+Driven by curiosity and fueled by caffeine, I’m a final-year IT undergraduate student passionate about crafting smart solutions through code. I enjoy tackling challenges in data structures & algorithms, building intuitive web experiences, and learning something new every day.
 
 🛑 When I’m not chasing bugs, I’m probably…
 
