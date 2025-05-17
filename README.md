@@ -1,11 +1,10 @@
 <h1 align="center">Hey there! I'm Kurella Sai Siri Chandana 👋</h1>
-
 <p align="center">
   🚀 Aspiring Software Developer &nbsp;•&nbsp; 💻 Full-Stack Learner &nbsp;•&nbsp; 📊 DSA Enthusiast &nbsp;
 </p>
 
 ---
-# 🧠 Who Am I?
+## 🧠 Who Am I?
 
 Driven by curiosity and fueled by caffeine, I’m a final-year IT undergrad passionate about crafting smart solutions through code. I enjoy tackling challenges in data structures & algorithms, building intuitive web experiences, and learning something new every day.
 
@@ -33,7 +32,6 @@ Here’s where I sharpen my logic and occasionally overthink simple problems:
 - 🧠 [LeetCode](https://leetcode.com/u/SiriChandana_K/) 
 - 🚀 [GeeksforGeeks](https://www.geeksforgeeks.org/user/sirichandoo04/)
 - 🐍 [HackerRank](https://www.hackerrank.com/profile/sirichandoo_04) 
-- 🍽️ [CodeChef](https://www.codechef.com/users/fresh_zen_41) 
 
 ---
 ## 🤝 Let’s Connect!
