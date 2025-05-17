@@ -5,25 +5,36 @@
 </p>
 
 ---
-## 🧠 Who Am I?
+# 🧠 Who Am I?
 
 Driven by curiosity and fueled by caffeine, I’m a final-year IT undergrad passionate about crafting smart solutions through code. I enjoy tackling challenges in data structures & algorithms, building intuitive web experiences, and learning something new every day.
 
-In between commits, I like to:
+🛑 When I’m not chasing bugs, I’m probably…
 
-- 📓 Doodle project ideas in the margins of my notes  
-- 🔍 Deep-dive into niche tech topics no one asked about  
-- 🎧 Vibe to music and curate playlists  
-- 🌌 Explore tech articles, space facts, or fall into a YouTube rabbit hole
-  
+📓 Doodling project ideas in the margins of my notes  
+🔍 Deep-diving into niche tech topics no one asked about  
+🎧 Vibing to music and curating playlists  
+🌌 Exploring tech articles, space facts, or falling into a YouTube rabbit hole  
+
 ---
 ## 💻 Currently Brewing ☕
 
 - 🚧 Strengthening my full-stack web development skills — one component at a time  
 - 🧠 Leveling up my DSA game in Java (and occasionally fighting off recursion nightmares)  
 - 👨‍💻 Ideating for hackathons and building real-world, impact-driven solutions  
-- 🛠️ Experimenting with new dev tools and happily debugging my way through it all
+- 🛠️ Experimenting with new dev tools and debugging my way through it all — one bug at a time
   
+---
+## 🧩 Competitive Coding & DSA
+
+Some people unwind with Netflix. I unwind with nested loops and edge cases.  
+Here’s where I sharpen my logic and occasionally overthink simple problems:
+
+- 🧠 [LeetCode](https://leetcode.com/u/SiriChandana_K/) 
+- 🚀 [GeeksforGeeks](https://www.geeksforgeeks.org/user/sirichandoo04/)
+- 🐍 [HackerRank](https://www.hackerrank.com/profile/sirichandoo_04) 
+- 🍽️ [CodeChef](https://www.codechef.com/users/fresh_zen_41) 
+
 ---
 ## 🤝 Let’s Connect!
 Always up for some good code, better coffee, and the best memes — just a ping away!
