@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Kurella Sai Siri Chandana 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Software Developer &nbsp;•&nbsp; 💻 Full Stack Learner &nbsp;•&nbsp; 📊 DSA Enthusiast &nbsp;
+  🚀 Aspiring Software Developer &nbsp;•&nbsp; 💻 Full-Stack Learner &nbsp;•&nbsp; 📊 DSA Enthusiast &nbsp;
 </p>
 
 ---
@@ -9,26 +9,24 @@
 
 Driven by curiosity and fueled by caffeine, I’m a final-year IT undergrad passionate about crafting smart solutions through code. I enjoy tackling challenges in data structures & algorithms, building intuitive web experiences, and learning something new every day.
 
-When I’m not coding, you’ll find me:
+In between commits, I like to:
 
-- 🚶‍♂️ Taking long walks to clear my mind  
-- 🎧 Vibing to music and curating playlists  
-- 🍳 Experimenting in the kitchen (results may vary 😄)  
-- 🌌 Exploring tech articles, space facts, and random YouTube rabbit holes  
-- 🛠️ Tinkering with side projects and sharpening my dev skills  
-
+- 📓 Doodle project ideas in the margins of my notes  
+- 🔍 Deep-dive into niche tech topics no one asked about  
+- 🎧 Vibe to music and curate playlists  
+- 🌌 Explore tech articles, space facts, or fall into a YouTube rabbit hole
+  
 ---
-## 🍳 Currently Cooking
+## 💻 Currently Brewing ☕
 
-- 🚧 Learning full-stack web development using **React**, **Node.js**, **MongoDB**, and **Firebase**
-- 🧠 Practicing **DSA in Java**
-- 👨‍💻 Staying hackathon-ready with fresh ideas and building practical solutions
-- 🐧 Leveling up on Git, Linux, and command-line wizardry to boost my dev workflow
-- 📚 Learning new dev tools, one bug at a time
-
+- 🚧 Strengthening my full-stack web development skills — one component at a time  
+- 🧠 Leveling up my DSA game in Java (and occasionally fighting off recursion nightmares)  
+- 👨‍💻 Ideating for hackathons and building real-world, impact-driven solutions  
+- 🛠️ Experimenting with new dev tools and happily debugging my way through it all
+  
 ---
 ## 🤝 Let’s Connect!
-Whether you're up for a tech collab, code review, or just sharing dev memes — I'm always just a message away!
+Always up for some good code, better coffee, and the best memes — just a ping away!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurella-sai-siri-chandana) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24223319) 
 
@@ -39,6 +37,7 @@ Whether you're up for a tech collab, code review, or just sharing dev memes — 
 
 ---
 ## 🎖️GSSOC(24) Badges
+Had an amazing time contributing to open-source during **GirlScript Summer of Code 2024**! Grateful for the learning, teamwork, and these awesome badges:
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
