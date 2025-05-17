@@ -10,10 +10,10 @@ Driven by curiosity and fueled by caffeine, I’m a final-year IT undergrad pass
 
 🛑 When I’m not chasing bugs, I’m probably…
 
-📓 Doodling project ideas in the margins of my notes  
-🔍 Deep-diving into niche tech topics no one asked about  
-🎧 Vibing to music and curating playlists  
-🌌 Exploring tech articles, space facts, or falling into a YouTube rabbit hole  
+- 📓 Doodling project ideas in the margins of my notes  
+- 🔍 Deep-diving into niche tech topics no one asked about  
+- 🎧 Vibing to music and curating playlists  
+- 🌌 Exploring tech articles, space facts, or falling into a YouTube rabbit hole  
 
 ---
 ## 💻 Currently Brewing ☕
