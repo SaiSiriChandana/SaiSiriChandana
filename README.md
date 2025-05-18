@@ -37,14 +37,24 @@ When I'm not chasing bugs, I'm probably:
 ---
 ## 🧩 Competitive Coding & DSA
 
+<table>
+  <tr>
+    <td valign="top">
+
 Some people unwind with Netflix. I unwind with nested loops and edge cases.  
 Here’s where I sharpen my logic and occasionally overthink simple problems:
 
 - 🧠 [LeetCode](https://leetcode.com/u/SiriChandana_K/) 
 - 🚀 [GeeksforGeeks](https://www.geeksforgeeks.org/user/sirichandoo04/)
 - 🐍 [HackerRank](https://www.hackerrank.com/profile/sirichandoo_04) 
+    </td>
+    <td valign="top" width="320" style="padding-left: 20px;">
+      <img src="banner.gif" width="300" alt="Storm Apartment GIF" />
+    </td>
+  </tr>
+</table>
 
----
+
 ## 💻 Tech Stack
 
 A glimpse into the tech I use to build, break, and bring ideas to life:
@@ -71,14 +81,6 @@ Had an amazing time contributing to open-source during **GirlScript Summer of Co
 ![](https://github-readme-stats.vercel.app/api?username=SaiSiriChandana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SaiSiriChandana&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSiriChandana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaiSiriChandana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SaiSiriChandana&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 ## 🤝 Let’s Connect!
