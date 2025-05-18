@@ -1,14 +1,26 @@
-<h1 align="center">Hey there! I'm Kurella Sai Siri Chandana 👋</h1>
+
+## Hey there! I'm Kurella Sai Siri Chandana 👋
+
+
 <p align="center">
-  🚀 Aspiring Software Developer &nbsp;•&nbsp; 💻 Full-Stack Learner &nbsp;•&nbsp; 📊 DSA Enthusiast &nbsp;
+  <img src="https://github.com/SaiSiriChandana/SaiSiriChandana/blob/main/profilebanner.png" alt="Banner">
+</p>
+<p align="center">
+  <a href="https://github.com/SaiSiriChandana">
+    <img src="https://img.shields.io/github/followers/SaiSiriChandana?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/kurella-sai-siri-chandana/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kurella-sai-siri-chandana/" alt="Linkedin: kurella-sai-siri-chandana">
+  </a>
+ 
 </p>
 
----
+
 ## 🧠 Who Am I?
 
-Driven by curiosity and fueled by caffeine, I’m a final-year IT undergraduate student passionate about crafting smart solutions through code. I enjoy tackling challenges in data structures & algorithms, building intuitive web experiences, and learning something new every day.
+Driven by curiosity and fueled by caffeine ☕, I’m a final-year IT undergrad passionate about crafting smart solutions through code.
 
-🛑 When I’m not chasing bugs, I’m probably…
+When I'm not chasing bugs, I'm probably:
 
 - 📓 Doodling project ideas in the margins of my notes  
 - 🔍 Deep-diving into niche tech topics no one asked about  
@@ -16,13 +28,12 @@ Driven by curiosity and fueled by caffeine, I’m a final-year IT undergraduate 
 - 🌌 Exploring tech articles, space facts, or falling into a YouTube rabbit hole  
 
 ---
-## 💻 Currently Brewing ☕
+## 🌱 Currently Learning
 
-- 🚧 Strengthening my full-stack web development skills — one component at a time  
-- 🧠 Leveling up my DSA game in Java (and occasionally fighting off recursion nightmares)  
-- 👨‍💻 Ideating for hackathons and building real-world, impact-driven solutions  
-- 🛠️ Experimenting with new dev tools and debugging my way through it all — one bug at a time
-  
+- 🌐 Strengthening full-stack skills — one component at a time  
+- ⚙️ Leveling up my DSA game in Java (and occasionally fighting off recursion nightmares)  
+- 🧪 Experimenting with new dev tools and frameworks  
+- 🧠 Ideating for hackathons and building impact-driven solutions  
 ---
 ## 🧩 Competitive Coding & DSA
 
@@ -34,13 +45,9 @@ Here’s where I sharpen my logic and occasionally overthink simple problems:
 - 🐍 [HackerRank](https://www.hackerrank.com/profile/sirichandoo_04) 
 
 ---
-## 🤝 Let’s Connect!
-Always up for some good code, better coffee, and the best memes — just a ping away!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurella-sai-siri-chandana) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24223319) 
-
----
 ## 💻 Tech Stack
+
+A glimpse into the tech I use to build, break, and bring ideas to life:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -70,17 +77,14 @@ Had an amazing time contributing to open-source during **GirlScript Summer of Co
 ![](https://github-profile-trophy.vercel.app/?username=SaiSiriChandana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SaiSiriChandana&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+## 🤝 Let’s Connect!
+Always up for some good code, better coffee, and the best memes — just a ping away!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SaiSiriChandana)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurella-sai-siri-chandana) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24223319) 
 
 ---
 
