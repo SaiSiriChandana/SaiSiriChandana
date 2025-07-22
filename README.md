@@ -39,7 +39,7 @@ Stuff I’ve built while chasing curiosity, course credits, and code dreams ✨
 - **🪐 [Interactive Exoplanet Exploration Platform](https://github.com/SaiSiriChandana/NASA-Space-Apps-2024.git)**  
   `HTML, CSS, JavaScript, Flask, Matplotlib`  
   Educational platform that visualizes real NASA datasets to encourage curiosity about outer space.  
-  🚀 Built for ** NASA Space Apps Challenge 2024**.
+  🚀 Built for **NASA Space Apps Challenge 2024**.
 
 - **🚓 [Crime Rate Prediction Using Logistic Regression](https://github.com/SaiSiriChandana/Crime-Rate-Prediction-Logistic-Regression.git)**  
   `Python, scikit-learn`  
