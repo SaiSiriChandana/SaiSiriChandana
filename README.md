@@ -1,10 +1,15 @@
-<h1 align="center">Hey there! I'm Kurella Sai Siri Chandana 👩‍💻</h1>
+
+
 <p align="center">
-  🚀 Aspiring SDE • 💻 Java & Python Enthusiast • 🤖 Building Smart, Real-World ML Projects
+  <img src="https://github.com/SaiSiriChandana/SaiSiriChandana/blob/main/pro banner.png" alt="Banner" width="100%"/>
 </p>
 
 
-## 🧠 Who Am I?
+
+## 👩‍💻 Hey there! I'm Kurella Sai Siri Chandana 👋
+
+
+
 
 Driven by curiosity and fueled by caffeine ☕, I’m a final-year IT undergrad passionate about crafting smart solutions through code.
 
