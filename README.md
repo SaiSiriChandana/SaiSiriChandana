@@ -33,35 +33,25 @@ When I’m not chasing bugs, you’ll probably find me:
 Stuff I’ve built while chasing curiosity, course credits, and code dreams ✨
 
 - **🔐 [Cryptographic Key Sharing via Hand Gesture Recognition](https://github.com/SaiSiriChandana/Cryptographic-Key-Sharing-via-Hand-Gesture-Recognition-Using-Computer-Vision.git)**  
-  `Python, OpenCV, MediaPipe, AES, Streamlit`  
-  Gesture-based cryptographic key generation for secure message exchange with an interactive Streamlit UI.
+
 
 - **📺 [Context-Aware Recommendation System for Fire TV](https://github.com/SaiSiriChandana/Amazon-HackOn-Season-5-2025.git)**  
-  `React, Flask, Firebase, AWS Comprehend`  
-  Built an emotionally intelligent Fire TV prototype that adapts content based on user mood and context.  
-  🏆 Developed as part of **Amazon HackOn Season 5**.
+
 
 - **🪐 [Interactive Exoplanet Exploration Platform](https://github.com/SaiSiriChandana/NASA-Space-Apps-2024.git)**  
-  `HTML, CSS, JavaScript, Flask, Matplotlib`  
-  Educational platform that visualizes real NASA datasets to encourage curiosity about outer space.  
-  🚀 Built for **NASA Space Apps Challenge 2024**.
+
 
 - **🚓 [Crime Rate Prediction Using Logistic Regression](https://github.com/SaiSiriChandana/Crime-Rate-Prediction-Logistic-Regression.git)**  
-  `Python, scikit-learn`  
-  Developed a predictive model using socio-economic indicators to forecast regional crime rates with 87% accuracy.
+
 
 - **🎵 [Music Recommendation App](https://github.com/SaiSiriChandana/Music-Recommendation-App-Using-Python.git)**  
-  `Python, Streamlit, scikit-learn`  
-  Suggested songs based on lyrical similarity using TF-IDF vectorization and cosine similarity scores.
+
 
 - **🧠 [AI-Driven Graphical Password System](https://github.com/SaiSiriChandana/AI-Driven-Graphical-Password-System.git)**  
-  `Python, Django, OpenCV, scikit-learn`  
-  Web-based authentication system that leverages image recognition and ML to enhance password security.
+
   
 - **📍 [Gemini Landmark Description App](https://github.com/SaiSiriChandana/Gemini-Landmark-Description-App-By-The-Atlas-Coders.git)**  
-  `Python, Gradio, Gemini API`  
-  An innovative app that enhances tourist experiences by providing instant, AI-generated landmark insights.  
-  🌐 Built for the **Gen AI Hackathon** in collaboration with **SmartBridge**.
+
 
 ## 🧩 Competitive Coding & DSA
 
