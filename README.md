@@ -6,18 +6,14 @@
 
 
 
-## 👩‍💻 Hey there! I'm Kurella Sai Siri Chandana 👋
+## Hey there! I'm Kurella Sai Siri Chandana 👋
 
+A final-year IT undergrad with curiosity as my compass and coffee as my fuel ☕. I love turning ideas into code and building solutions that make an impact.  
 
-
-
-Driven by curiosity and fueled by caffeine ☕, I’m a final-year IT undergrad passionate about crafting smart solutions through code.
-
-When I’m not chasing bugs, you’ll probably find me:
-
-- 📓 Doodling project ideas in the margins of my notes  
-- 🔍 Deep-diving into niche tech topics no one asked about  
-- 🎧 Vibing to music and curating oddly specific playlists
+When I’m not chasing bugs, I’m probably:  
+- 📓 Sketching random project ideas  
+- 🔍 Geeking out on niche tech topics  
+- 🎧 Curating oddly specific playlists  
   
 ---
 
@@ -29,28 +25,7 @@ When I’m not chasing bugs, you’ll probably find me:
 - 🧠 Ideating for hackathons and building impact-driven solutions
   
 ---
-## 🛠️ Projects  
-Stuff I’ve built while chasing curiosity, course credits, and code dreams ✨
 
-- **🔐 [Cryptographic Key Sharing via Hand Gesture Recognition](https://github.com/SaiSiriChandana/Cryptographic-Key-Sharing-via-Hand-Gesture-Recognition-Using-Computer-Vision.git)**  
-
-
-- **📺 [Context-Aware Recommendation System for Fire TV](https://github.com/SaiSiriChandana/Amazon-HackOn-Season-5-2025.git)**  
-
-
-- **🪐 [Interactive Exoplanet Exploration Platform](https://github.com/SaiSiriChandana/NASA-Space-Apps-2024.git)**  
-
-
-- **🚓 [Crime Rate Prediction Using Logistic Regression](https://github.com/SaiSiriChandana/Crime-Rate-Prediction-Logistic-Regression.git)**  
-
-
-- **🎵 [Music Recommendation App](https://github.com/SaiSiriChandana/Music-Recommendation-App-Using-Python.git)**  
-
-
-- **🧠 [AI-Driven Graphical Password System](https://github.com/SaiSiriChandana/AI-Driven-Graphical-Password-System.git)**  
-
-  
-- **📍 [Gemini Landmark Description App](https://github.com/SaiSiriChandana/Gemini-Landmark-Description-App-By-The-Atlas-Coders.git)**  
 
 
 ## 🧩 Competitive Coding & DSA
@@ -82,6 +57,17 @@ A glimpse into the tech I use to build, break, and bring ideas to life:
 
 
 ---
+## 🚀 Hackathon Participations  
+Because nothing tests creativity (and caffeine tolerance ☕) like a hackathon!  
+
+| Hackathon | Project | Year |
+|-----------|---------|------|
+| Amazon HackOn '25 | Context-Aware Recommendation System for Fire TV | 2025 |
+| NASA Space Apps Challenge | Interactive Exoplanet Exploration Platform | 2024 |
+| Smart India Hackathon (SIH) | EcoProtect: Wildlife Poaching & Tree-Cutting Detection | 2024 |
+| CMR HackFest 1.0 | E-Waste Monitoring System | 2024 |
+
+---
 
 ## 👩‍💻 Open Source Contributions
 Proud contributor at **GirlScript Summer of Code Extended 2024** — built, learned, and earned some shiny badges!
@@ -95,6 +81,18 @@ Proud contributor at **GirlScript Summer of Code Extended 2024** — built, lear
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
  </a>
 </div>
+
+---
+## 🏅 Certifications  
+
+Credentials that remind me debugging isn’t the only test I’ve survived 🛠️🎓  
+
+- **Programming, Data Structures and Algorithms using Python** – NPTEL, 2025  
+- **Artificial Intelligence Primer Certification** – Infosys Springboard, 2025  
+- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** – Oracle, 2024  
+- **Programming Essentials in C** – Cisco, 2023  
+- **Programming Essentials in Python** – Cisco, 2023  
+
 
 ---
 ## 📊 GitHub Stats
