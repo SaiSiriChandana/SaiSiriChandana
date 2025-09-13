@@ -56,16 +56,6 @@ A glimpse into the tech I use to build, break, and bring ideas to life:
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
----
-## 🚀 Hackathon Participations  
-Because nothing tests creativity (and caffeine tolerance ☕) like a hackathon!  
-
-| Hackathon | Project | Year |
-|-----------|---------|------|
-| Amazon HackOn '25 | Context-Aware Recommendation System for Fire TV | 2025 |
-| NASA Space Apps Challenge | Interactive Exoplanet Exploration Platform | 2024 |
-| Smart India Hackathon (SIH) | EcoProtect: Wildlife Poaching & Tree-Cutting Detection | 2024 |
-| CMR HackFest 1.0 | E-Waste Monitoring System | 2024 |
 
 ---
 
