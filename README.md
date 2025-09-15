@@ -8,23 +8,22 @@
 
 ---
 
-## 🔥 About Me
+## 🧑‍💻 About Me
 
-I’m an IT undergrad and aspiring software developer with a passion for turning ideas into impactful software. I thrive in hackathons, open-source contributions, and projects that challenge my skills and creativity. From AI models to web apps and system design, I love learning by building, experimenting, and pushing limits.
-
-I believe coding is where logic meets creativity, and that’s exactly where I thrive.
+“Coding is where logic meets creativity — that’s where I thrive.”
+IT undergrad & aspiring software developer. I love tackling hackathons, open-source projects, and building real-world solutions. From AI models to web apps, I thrive on learning by building.
 
 ---
 
 
 ## 🏆 Highlights
 
-Big wins, bold experiments, and lessons learned along the way 🌱
+Every achievement tells a story of curiosity, grit, and a bit of caffeine ☕.
 
-- 🥇 **HSBC Hackathon 2025 Winner** – Built a secure banking communication system ensuring privacy & trust.
-- 🚀 **Amazon HackOn 2025 (Top 130 Teams)** – Developed a context-aware Fire TV prototype with mood-based recommendations.
-- 🌍 **GSSoC 2024 Contributor** – Contributed to real-world open-source projects, earned Postman API certification, and badges.
-- 🌌 **NASA Space Apps Challenge 2024 (Cosmic Coder)** – Created a solution for “Chronicles of Exoplanet Exploration”.
+- 🥇 HSBC Hackathon 2025 Winner – Built a secure banking communication system.
+- 🚀 Amazon HackOn 2025 (Top 130 Teams) – Context-aware Fire TV prototype.
+- 🌍 GSSoC 2024 Contributor – Open-source contributions & Postman certification.
+- 🌌 NASA Space Apps Challenge 2024 – “Chronicles of Exoplanet Exploration” solution.
 ---
 
 ##  🚀 Projects  
@@ -34,7 +33,7 @@ Big wins, bold experiments, and lessons learned along the way 🌱
   <tr>
     <td valign="top">
       
-A blend of experiments, caffeine-fueled ideas, and actual working code 💻☕
+Turning ideas into working projects, one commit at a time. 💻
       
 - 💼 [**Job Application Tracker**](https://github.com/SaiSiriChandana/dsa-using-java.git) – Java + SQLite app to manage 100+ job applications with CRUD, filters & CSV export.  
 - 🔐 [**Cryptographic Key Sharing via Hand Gestures**](https://github.com/SaiSiriChandana/Cryptographic-Key-Sharing-via-Hand-Gesture-Recognition-Using-Computer-Vision.git) – Real-time AES + SHA-256 key exchange using hand gestures, no devices needed.  
@@ -78,7 +77,7 @@ Tiny commits, big lessons 🌱
 
 ---
 ## 📜 Certifications  
-Proof that I survive courses and exams… and maybe even learn something on the way 📚
+Collecting knowledge one course, one badge, and one skill at a time 📚
 
 - Artificial Intelligence Primer – Infosys Springboard, 2025 
 - Programming, Data Structures and Algorithms using Python – NPTEL, 2025 
