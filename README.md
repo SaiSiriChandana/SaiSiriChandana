@@ -108,9 +108,5 @@ I believe great conversations start with curiosity (and maybe a good meme) 🤗
 
 ---
 
-<div align="center"> 
-  <h3><b>“Code is where creativity meets logic — that’s where I thrive.”</b></h3>
-</div>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
