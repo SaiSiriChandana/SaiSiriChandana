@@ -3,11 +3,12 @@
 
 <pre>git commit -m "Building the future 🚀"</pre>
 
-# Hey there! I'm Kurella Sai Siri Chandana 👋
+# Hey there!
+I build scalable solutions at the intersection of AI and software engineering 🚀, driven by curiosity and innovation 🌟
+
 
 </div>
 
-Building the future, one line of code at a time 🚀 | Where AI meets software engineering, curiosity leads the way 🌟
 
 ---
 
@@ -76,6 +77,7 @@ Tiny commits, big lessons. Community-driven coding just hits different.
 ---
 ## 📜 Certifications  
 Proof that I survive courses and exams… and maybe even learn something on the way 📚
+
 🎓 Oracle Cloud Infrastructure 2024 Generative AI Certified Professional – Oracle  
 🎓 Artificial Intelligence Primer – Infosys Springboard, 2025  
 🎓 Programming, Data Structures and Algorithms using Python – NPTEL, 2025  
