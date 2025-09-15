@@ -1,51 +1,51 @@
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/SaiSiriChandana/SaiSiriChandana/blob/main/pro banner.png" alt="Banner" width="100%"/>
-</p>
+<pre>git commit -m "Building the future 🚀"</pre>
 
+# Hey there! I'm Kurella Sai Siri Chandana 👋
 
+</div>
 
-## Hey there! I'm Kurella Sai Siri Chandana 👋
+Building the future, one line of code at a time 🚀 | Where AI meets software engineering, curiosity leads the way 🌟
 
-A final-year IT undergrad with curiosity as my compass and coffee as my fuel ☕. I love turning ideas into code and building solutions that make an impact.  
-
-When I’m not chasing bugs, I’m probably:  
-- 📓 Sketching random project ideas  
-- 🔍 Geeking out on niche tech topics  
-- 🎧 Curating oddly specific playlists  
-  
----
-
-## 🌱 Currently Learning
-🚧 Forever tinkering, learning, and occasionally questioning my life choices over debug logs.
-
-- ⚙️ Leveling up my DSA game in Java
-- 🧪 Experimenting with new dev tools and frameworks  
-- 🧠 Ideating for hackathons and building impact-driven solutions
-  
 ---
 
 
+## 🏆 Highlights
+*Proud moments that taught me there's always more to learn 🌱*
 
-## 🧩 Competitive Coding & DSA
+- 🥇 **HSBC Hackathon 2025 Winner** – Built a secure banking communication system ensuring privacy & trust.  
+- 🚀 **Amazon HackOn 2025 (Top 130 Teams)** – Prototype presentation with a context-aware Fire TV solution.  
+- 🌍 **GSSoC 2024 Contributor** – Explored open-source projects & earned Postman API certification & badges.  
+- 🌌 **NASA Space Apps Challenge 2024 (Cosmic Coder)** – Developed a solution for “Chronicles of Exoplanet Exploration.”
+---
+
+##  🚀 Projects  
+
 
 <table>
   <tr>
     <td valign="top">
+      
+A mix of experiments, caffeine-fueled ideas, and actual working code ☕💻
+      
+- 💼 [**Job Application Tracker**](https://github.com/SaiSiriChandana/dsa-using-java.git) – Java + SQLite app to manage 100+ job applications with CRUD, filters & CSV export.  
 
-While some unwind with Netflix, I unwind with nested loops and edge cases.
-Here’s where I sharpen my logic and occasionally overthink simple problems:
+- 🔐 [**Cryptographic Key Sharing via Hand Gestures**](https://github.com/SaiSiriChandana/Cryptographic-Key-Sharing-via-Hand-Gesture-Recognition-Using-Computer-Vision.git) – Real-time AES + SHA-256 key exchange using hand gestures, no devices needed.  
 
-- 🧠 [LeetCode](https://leetcode.com/u/SiriChandana_K/) 
-- 🚀 [GeeksforGeeks](https://www.geeksforgeeks.org/user/sirichandoo04/)
-- 🐍 [HackerRank](https://www.hackerrank.com/profile/sirichandoo_04) 
+- 📺 [**Context-Aware Fire TV**](https://github.com/SaiSiriChandana/Amazon-HackOn-Season-5-2025.git) – Prototype (Amazon HackOn S5) using contextual bandits & sentiment analysis for mood-based recommendations.  
+
+- 🖼️ [**Graphical Password Authentication**](https://github.com/SaiSiriChandana/Graphical-Password-Authentication-System.git) – Django + MySQL login system replacing text passwords with secure image click-points.  
+
     </td>
     <td valign="top" width="320" style="padding-left: 20px;">
       <img src="banner.gif" width="300" alt="Storm Apartment GIF" />
     </td>
   </tr>
 </table>
+
+---
 
 
 ## 💻 Tech Stack
@@ -58,9 +58,10 @@ A glimpse into the tech I use to build, break, and bring ideas to life:
 
 
 ---
+## 🌍 Open Source Contributions  
+Tiny commits, big lessons. Community-driven coding just hits different.
+- 🚀 Contributed to **GirlScript Summer of Code Extended 2024** – explored real-world projects, shipped code, and earned shiny badges along the way!  
 
-## 👩‍💻 Open Source Contributions
-Proud contributor at **GirlScript Summer of Code Extended 2024** — built, learned, and earned some shiny badges!
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -73,20 +74,17 @@ Proud contributor at **GirlScript Summer of Code Extended 2024** — built, lear
 </div>
 
 ---
-## 🏅 Certifications  
-
-Credentials that remind me debugging isn’t the only test I’ve survived 🛠️🎓  
-
-- **Programming, Data Structures and Algorithms using Python** – NPTEL, 2025  
-- **Artificial Intelligence Primer Certification** – Infosys Springboard, 2025  
-- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** – Oracle, 2024  
-- **Programming Essentials in C** – Cisco, 2023  
-- **Programming Essentials in Python** – Cisco, 2023  
-
+## 📜 Certifications  
+Proof that I survive courses and exams… and maybe even learn something on the way 📚
+🎓 Oracle Cloud Infrastructure 2024 Generative AI Certified Professional – Oracle  
+🎓 Artificial Intelligence Primer – Infosys Springboard, 2025  
+🎓 Programming, Data Structures and Algorithms using Python – NPTEL, 2025  
+🎓 Programming Essentials in C & Python – Cisco  
 
 ---
 ## 📊 GitHub Stats
 
+Not a scoreboard, more like footprints of my coding journey 👣
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiSiriChandana&theme=dark&hide_border=false&count_private=false&show_icons=true" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=SaiSiriChandana&theme=dark&hide_border=false" height="150"/>
@@ -94,11 +92,18 @@ Credentials that remind me debugging isn’t the only test I’ve survived 🛠�
 </p>
 
 ---
-## 🤝 Let’s Connect!
-Always up for some good code, better coffee, and the best memes — just a ping away!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurella-sai-siri-chandana) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24223319) 
+## 🤝 Let’s Connect  
+I believe great conversations start with curiosity (and maybe a good meme) 🤗
+<p align="center">
+  <a href="https://linkedin.com/in/kurella-sai-siri-chandana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SaiSiriChandana"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/SiriChandana_K/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/24223319"><img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/></a>
+</p>
 
 ---
+
+✨ *“Code is where creativity meets logic — and that’s where I thrive.”*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
