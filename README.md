@@ -1,25 +1,30 @@
 
-<div align="center">
-
-<pre>git commit -m "Building the future 🚀"</pre>
-
-# Hey there!
-I build scalable solutions at the intersection of AI and software engineering 🚀, driven by curiosity and innovation 🌟
+<div align="center"> 
+  
+  <pre>git commit -m "Building the future 🚀"</pre>
 
 
 </div>
 
+---
+
+## 🔥 About Me
+
+I’m an IT undergrad and aspiring software developer with a passion for turning ideas into impactful software. I thrive in hackathons, open-source contributions, and projects that challenge my skills and creativity. From AI models to web apps and system design, I love learning by building, experimenting, and pushing limits.
+
+I believe coding is where logic meets creativity, and that’s exactly where I thrive.
 
 ---
 
 
 ## 🏆 Highlights
-*Proud moments that taught me there's always more to learn 🌱*
 
-- 🥇 **HSBC Hackathon 2025 Winner** – Built a secure banking communication system ensuring privacy & trust.  
-- 🚀 **Amazon HackOn 2025 (Top 130 Teams)** – Prototype presentation with a context-aware Fire TV solution.  
-- 🌍 **GSSoC 2024 Contributor** – Explored open-source projects & earned Postman API certification & badges.  
-- 🌌 **NASA Space Apps Challenge 2024 (Cosmic Coder)** – Developed a solution for “Chronicles of Exoplanet Exploration.”
+Big wins, bold experiments, and lessons learned along the way 🌱
+
+- 🥇 **HSBC Hackathon 2025 Winner** – Built a secure banking communication system ensuring privacy & trust.
+- 🚀 **Amazon HackOn 2025 (Top 130 Teams)** – Developed a context-aware Fire TV prototype with mood-based recommendations.
+- 🌍 **GSSoC 2024 Contributor** – Contributed to real-world open-source projects, earned Postman API certification, and badges.
+- 🌌 **NASA Space Apps Challenge 2024 (Cosmic Coder)** – Created a solution for “Chronicles of Exoplanet Exploration”.
 ---
 
 ##  🚀 Projects  
@@ -29,14 +34,11 @@ I build scalable solutions at the intersection of AI and software engineering �
   <tr>
     <td valign="top">
       
-A mix of experiments, caffeine-fueled ideas, and actual working code ☕💻
+A blend of experiments, caffeine-fueled ideas, and actual working code 💻☕
       
 - 💼 [**Job Application Tracker**](https://github.com/SaiSiriChandana/dsa-using-java.git) – Java + SQLite app to manage 100+ job applications with CRUD, filters & CSV export.  
-
 - 🔐 [**Cryptographic Key Sharing via Hand Gestures**](https://github.com/SaiSiriChandana/Cryptographic-Key-Sharing-via-Hand-Gesture-Recognition-Using-Computer-Vision.git) – Real-time AES + SHA-256 key exchange using hand gestures, no devices needed.  
-
 - 📺 [**Context-Aware Fire TV**](https://github.com/SaiSiriChandana/Amazon-HackOn-Season-5-2025.git) – Prototype (Amazon HackOn S5) using contextual bandits & sentiment analysis for mood-based recommendations.  
-
 - 🖼️ [**Graphical Password Authentication**](https://github.com/SaiSiriChandana/Graphical-Password-Authentication-System.git) – Django + MySQL login system replacing text passwords with secure image click-points.  
 
     </td>
@@ -60,7 +62,7 @@ A glimpse into the tech I use to build, break, and bring ideas to life:
 
 ---
 ## 🌍 Open Source Contributions  
-Tiny commits, big lessons. Community-driven coding just hits different.
+Tiny commits, big lessons 🌱
 - 🚀 Contributed to **GirlScript Summer of Code Extended 2024** – explored real-world projects, shipped code, and earned shiny badges along the way!  
 
 
@@ -78,10 +80,10 @@ Tiny commits, big lessons. Community-driven coding just hits different.
 ## 📜 Certifications  
 Proof that I survive courses and exams… and maybe even learn something on the way 📚
 
-🎓 Oracle Cloud Infrastructure 2024 Generative AI Certified Professional – Oracle  
-🎓 Artificial Intelligence Primer – Infosys Springboard, 2025  
-🎓 Programming, Data Structures and Algorithms using Python – NPTEL, 2025  
-🎓 Programming Essentials in C & Python – Cisco  
+- Artificial Intelligence Primer – Infosys Springboard, 2025 
+- Programming, Data Structures and Algorithms using Python – NPTEL, 2025 
+- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional – Oracle  
+- Programming Essentials in C & Python – Cisco  
 
 ---
 ## 📊 GitHub Stats
@@ -106,6 +108,9 @@ I believe great conversations start with curiosity (and maybe a good meme) 🤗
 
 ---
 
-✨ *“Code is where creativity meets logic — and that’s where I thrive.”*
+<div align="center"> 
+  <h3><b>“Code is where creativity meets logic — that’s where I thrive.”</b></h3>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
