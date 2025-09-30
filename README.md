@@ -75,18 +75,7 @@ Proud contributor at **GirlScript Summer of Code Extended 2024** — built, lear
 </div>
 
 ---
-## 🏅 Certifications  
 
-Credentials that remind me debugging isn’t the only test I’ve survived 🛠️🎓  
-
-- **Programming, Data Structures and Algorithms using Python** – NPTEL, 2025  
-- **Artificial Intelligence Primer Certification** – Infosys Springboard, 2025  
-- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** – Oracle, 2024  
-- **Programming Essentials in C** – Cisco, 2023  
-- **Programming Essentials in Python** – Cisco, 2023  
-
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
