@@ -21,34 +21,31 @@ Still growing. Still experimenting. Still chasing that clean, satisfying solutio
 
 ## 🧩 Problem-Solving Practice
 
-<table>
-  <tr>
-    <td valign="top">
-
 My small arena for sharpening logic without overcomplicating life… most days.
 
 - 🧠 [LeetCode](https://leetcode.com/u/SiriChandana_K/) 
 - 🚀 [GeeksforGeeks](https://www.geeksforgeeks.org/user/sirichandoo04/)
 - 🐍 [HackerRank](https://www.hackerrank.com/profile/sirichandoo_04) 
-    </td>
-    <td valign="top" width="320" style="padding-left: 20px;">
-      <img src="banner.gif" width="300" alt="Storm Apartment GIF" />
-    </td>
-  </tr>
-</table>
+
+---
 
 
 ## 💻 Tech Stack
 
 A glimpse into the tech I use to build, break, and bring ideas to life:
 
-# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
 ---
+
 ## 🌐 What I’ve Been Crafting
+
+<table>
+  <tr>
+    <td valign="top">
+
 
 A small collection of builds that finally behaved after enough tinkering.
 
@@ -66,6 +63,13 @@ A small collection of builds that finally behaved after enough tinkering.
   **Repo:** [https://github.com/SaiSiriChandana/Amazon-HackOn-Season-5-2025](https://github.com/SaiSiriChandana/Amazon-HackOn-Season-5-2025.git)   
   Movie recommendation system using mood detection, contextual bandits, and real-time feedback.
   </details>
+
+   </td>
+    <td valign="top" width="320" style="padding-left: 20px;">
+      <img src="banner.gif" width="300" alt="Storm Apartment GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
