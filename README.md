@@ -2,11 +2,11 @@
 
 <img src="profilebanner.png" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E94560&center=true&vCenter=true&width=700&lines=Turning+scribbles+into+systems+✨;AI+%2B+Backend+Builder;Specialist+Engineer+(TM1);Building+with+curiosity+and+coffee+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E94560&center=true&vCenter=true&width=700&lines=Turning+scribbles+into+systems+✨;AI+Explorer;Python+Developer;Specialist+Engineer+(TM1);Building+with+curiosity+and+coffee+☕)](https://git.io/typing-svg)
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D8A7B1,100:E94560"/>
 
 ## 🌷 Tiny corner of the internet about me
 
@@ -32,7 +32,7 @@ I build systems that begin as messy ideas and eventually become something useful
 
 Mostly exploring **AI systems, backend engineering, research, and practical problem-solving** — where curiosity starts the conversation and code finishes it.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D8A7B1,100:E94560"/>
 
 ## ✨ Things I've Been Crafting
 
@@ -41,14 +41,14 @@ Mostly exploring **AI systems, backend engineering, research, and practical prob
 | Project | What it does | Tech |
 |:---|:---|:---|
 | 📈 **Haero – Portfolio Management System** | Full-stack portfolio management platform with real-time tracking, portfolio simulations, AI-powered risk insights, and intelligent market data handling | `React` `Spring Boot` `FastAPI` `Python` `MySQL` |
-| 🧠 **[Inquira AI](https://github.com/SaiSiriChandana/Inquira-AI)** | AI-powered research assistant with PDF querying, contextual search, and citation-aware responses | `React` `FastAPI` `FAISS` `PyMuPDF` |
-| 🎬 **[Context-Aware Fire TV Recommender](https://github.com/SaiSiriChandana/Amazon-HackOn-Season-5-2025)** | Adaptive recommendation system using mood, intent, weather and user context | `Flask` `AWS Comprehend` `Firebase` |
-| 🔐 **Cryptographic Key Sharing via Hand Gesture Recognition** | Gesture-based authentication and secure encryption key exchange | `Python` `OpenCV` `MediaPipe` |
-| 📊 **Azure Demand Forecasting System** | Predictive capacity optimization with ML-driven recommendations | `Python` `Flask` `React` |
+| 🧠 **[Inquira AI]([https://github.com/SaiSiriChandana/Inquira-AI](https://github.com/SaiSiriChandana/Inquira-AI.git))** | AI-powered research assistant with PDF querying, contextual search, and citation-aware responses | `React` `FastAPI` `FAISS` `PyMuPDF` |
+| 🎬 **[Context-Aware Fire TV Recommender](https://github.com/SaiSiriChandana/Amazon-HackOn-Season-5-2025.git)** | Adaptive recommendation system using mood, intent, weather and user context | `Flask` `AWS Comprehend` `Firebase` |
+| 🔐 **[Cryptographic Key Sharing via Hand Gesture Recognition](https://github.com/SaiSiriChandana/Cryptographic-Key-Sharing-via-Hand-Gesture-Recognition-Using-Computer-Vision.git)** | Gesture-based authentication and secure encryption key exchange | `Python` `OpenCV` `MediaPipe` |
+| 📊 **[Azure Demand Forecasting System](https://github.com/SaiSiriChandana/Azure-Based-Demand-Forecasting-Capacity-Optimization-System.git)** | Predictive capacity optimization with ML-driven recommendations | `Python` `Flask` `React` |
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D8A7B1,100:E94560"/>
 
 ## 💼 Experience
 
@@ -57,12 +57,12 @@ Mostly exploring **AI systems, backend engineering, research, and practical prob
 
 | Experience | Key Contributions |
 |:---|:---|
-| **HSBC — Winter Intern** <br> *Jan 2026 – Jun 2026* | Built a Streamlit UI for a TM1Py-powered Dimension Compare Utility, automated reporting workflows, and worked with multidimensional systems & metadata management. |
-| **Infosys Springboard Internship 6.0** <br> *Oct 2025 – Dec 2025* | Built an ML-powered Azure demand forecasting and capacity optimization system with prediction monitoring and optimization insights. |
+| **HSBC - Winter Intern** <br> *Jan 2026 – Jun 2026* | Built a Streamlit UI for a TM1Py-powered Dimension Compare Utility, automated reporting workflows, and worked with multidimensional systems & metadata management. |
+| **Infosys Springboard Internship 6.0 - Project Intern** <br> *Oct 2025 – Dec 2025* | Built an ML-powered Azure demand forecasting and capacity optimization system with prediction monitoring and optimization insights. |
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D8A7B1,100:E94560"/>
 
 ## 🏆 Achievements & Certifications
 <div align="center">
@@ -75,7 +75,7 @@ Mostly exploring **AI systems, backend engineering, research, and practical prob
 
 </div> 
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D8A7B1,100:E94560"/>
 
 ## 🛠 Tech Stack
 
@@ -90,7 +90,7 @@ Mostly exploring **AI systems, backend engineering, research, and practical prob
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D8A7B1,100:E94560"/>
 
 ## 📊 GitHub Universe
 
@@ -102,24 +102,20 @@ Mostly exploring **AI systems, backend engineering, research, and practical prob
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D8A7B1,100:E94560"/>
 
 
 ## 🌱 Beyond Code ✨
 
-- **NSS Coordinator** — Organized initiatives and coordinated activities, learning that leadership often starts with communication and consistency.
-- 📝 Outside tech, I enjoy exploring ideas, documenting things, and turning random curiosity into tiny experiments. 
+- **NSS Coordinator** - Organized initiatives and coordinated activities, learning that leadership often starts with communication and consistency.
+- Outside tech, I enjoy exploring ideas, documenting things, and turning random curiosity into tiny experiments. 
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D8A7B1,100:E94560"/>
 
 ## 🌐 Socials:
 Where to find me, follow along, or say hi 👋  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurella-sai-siri-chandana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sirichandoo.04) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24223319) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sirichandana_k) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/k_sirichandana) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)](https://bitbucket.org/sckworkspace/workspace/overview/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kurella-sai-siri-chandana) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sirichandoo.04) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24223319) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sirichandana_k) 
 
----
-<div align="center">
-Turning curiosity into systems, one tiny experiment at a time.✨
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D8A7B1,100:E94560"/>
 
----
