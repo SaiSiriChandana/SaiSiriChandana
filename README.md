@@ -2,7 +2,7 @@
 
 <img src="profilebanner.png" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E94560&center=true&vCenter=true&width=700&lines=Turning+scribbles+into+systems+✨;AI+%2B+Backend+Builder;Specialist+Engineer+(TM1);Building+with+curiosity+and+coffee+☕;Professional+overthinker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E94560&center=true&vCenter=true&width=700&lines=Turning+scribbles+into+systems+✨;AI+%2B+Backend+Builder;Specialist+Engineer+(TM1);Building+with+curiosity+and+coffee+☕)](https://git.io/typing-svg)
 
 </div>
 
